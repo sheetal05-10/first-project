@@ -5,10 +5,10 @@ public class StudentResult {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter Student Name:");
+        System.out.println("Enter our name:");
         String name = sc.nextLine();
 
-        System.out.println("Enter marks of 5 subjects:");
+        System.out.println("Enter our marks of the 5 subjects:");
 
         int m1 = sc.nextInt();
         int m2 = sc.nextInt();
